@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @koredebishi
-- 👀 I’m interested in cloud computing, computer vision and intelligence 
-- 🌱 I’m currently learning ... Machine Learning, AI and computational theory
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-koredebishi/koredebishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Software Engineer from Lagos, Nigeria. I enjoy research topics in software engineering, Edge computing, IOT, data science and data security of the the cloud and edge. Since a lot of information is going to the cloud and aparently also moving to the edge side of the system. Keeping this data secure is very important. 
