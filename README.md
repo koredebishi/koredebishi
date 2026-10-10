@@ -1,69 +1,109 @@
-# Hello, I'm Kay Bishi 👋
+# Hi, I'm Korede Bishi 👋
 
-**Ph.D. student, University of Georgia**
+**Software Engineering · Machine Learning Systems · AI Engineering**
 
-I am a member of the Modeling, Simulation & Analytics Lab (MSAL) under the supervision of [Dr. John A. Miller](https://openreview.net/profile?id=~John_A._Miller1) ([Google Scholar](https://scholar.google.com/citations?user=K7j2Uk8AAAAJ&hl=en)). My research centers on lane-level traffic simulation, digital twins, and trustworthy AI for intelligent urban mobility systems.
+I'm a PhD Candidate in Computer Science at the **University of Georgia**, where I conduct research in the **Modeling, Simulation & Analytics Lab (MSAL)** under the supervision of [Dr. John A. Miller](https://openreview.net/profile?id=~John_A._Miller1), whose mentorship I greatly value.
 
-I contribute to the open-source project [Scalation 2.0](https://github.com/scalation/scalation_2.0), a Scala-based simulation and analytics framework that integrates stochastic processes, optimization, and machine learning for data-calibrated microscopic traffic modeling.
+I build software and machine learning systems, with interests spanning backend engineering, distributed computing, time-series forecasting, simulation, and AI agents.
 
-Right now I'm building real-time digital twin frameworks that combine online calibration, parameter-free optimization, and graph-based spatiotemporal forecasting. Explore more about MSAL and our work on my [website](https://koredebishi.github.io).
+My work combines research with practical engineering: designing systems, implementing models and algorithms, evaluating their behavior, and building the tools needed to make results reproducible and reliable.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koredebishi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koredebishi&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koredebishi&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
-</p>
+[Website](https://koredebishi.github.io) · [LinkedIn](https://www.linkedin.com/in/koredebishi/) · [Google Scholar](https://scholar.google.com/citations?user=K7j2Uk8AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0003-4123-4428)
 
 ---
 
-## 🧩 Current Focus
+## 🚀 Featured Work
 
-- Lane-level microscopic traffic simulation
-- Real-time digital twins and online calibration
-- Parameter-free dynamic graph re-weighting
-- Graph-based forecasting for lane-level flow prediction
-- Optimization in stochastic simulation
+### [ScalaTion 2.0 — Modeling, Simulation & Analytics](https://github.com/scalation/scalation_2.0)
 
----
+An open-source Scala framework for modeling, simulation, optimization, and analytics.
 
-## ⚙️ Skills
+My contributions focus on microscopic traffic simulation, vehicle dynamics, empirical calibration, numerical integration, and validation against real-world traffic measurements.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SUMO-00599C?style=for-the-badge&logo=traffic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+**Engineering focus:** Scala · Simulation Engines · Algorithms · Numerical Computing · Performance Evaluation
 
----
+### [ST-TSFM — Spatiotemporal Time-Series Foundation Models](https://github.com/koredebishi/ST-TSFM)
 
-## 🏆 Achievements
+Research and implementation work involving time-series foundation models and spatiotemporal forecasting.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koredebishi&theme=onedark&margin-w=10&no-frame=true" alt="Trophies"/>
-</p>
+My work investigates how forecasting models behave under changing data distributions, including their accuracy, robustness, and adaptation.
+
+**Engineering focus:** Python · PyTorch · Transformers · Time-Series Forecasting · Model Evaluation
+
+### [ViTST — Spatiotemporal Deep Learning](https://github.com/koredebishi/ViTST)
+
+Research-oriented implementation exploring deep learning approaches to spatiotemporal data.
+
+**Engineering focus:** Python · Deep Learning · Spatiotemporal Modeling
 
 ---
 
-## 🔗 Connect With Me
+## 🏗️ Building Engineering Systems
 
-<p align="center">
-  <a href="mailto:korede.bishi01@gmail.com"><img src="https://img.shields.io/badge/Email-korede.bishi01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/koredebishi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/raymonbash"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://koredebishi.github.io"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=K7j2Uk8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-</p>
+I'm expanding my engineering portfolio through a series of practical, end-to-end systems, progressing from traditional software engineering to machine learning infrastructure and AI agents.
+
+| Backend & Distributed Systems | ML Systems & Infrastructure | AI Engineering |
+|---|---|---|
+| API gateways | PyTorch training pipelines | Retrieval-augmented generation |
+| Distributed task queues | Feature stores | Repository-aware coding agents |
+| Event-driven analytics | Model serving and inference | Agent evaluation and verification |
+| | Forecasting services | |
+
+The goal is to build systems that others can run, inspect, test, and extend—not just demonstrations that work once.
+
+As projects are completed and released, they will be linked here with their source code, architecture documentation, tests, and benchmarks.
+
+### What I emphasize
+
+- **System design:** Clear interfaces, modular components, and documented engineering decisions.
+- **Correctness:** Automated tests, edge cases, invariants, and verification.
+- **Performance:** Latency, throughput, resource utilization, and benchmarking.
+- **Reproducibility:** Versioned configurations, repeatable experiments, and documented environments.
+- **Maintainability:** Readable code, CI/CD, and documentation for developers and coding agents.
 
 ---
 
-⭐ *“Model · Simulate · Learn · Optimize · Repeat.”*
+## ⚙️ Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, Scala, Java, SQL, JavaScript |
+| Machine Learning | PyTorch, scikit-learn, Graph Neural Networks, Transformers, Time-Series Foundation Models |
+| Backend & Infrastructure | Docker, AWS (EC2, IAM, VPC), Git, Linux, CI/CD |
+| Data & Scientific Computing | NumPy, Pandas, HPC, Numerical Optimization |
+| Simulation & Modeling | ScalaTion 2.0, SUMO, Discrete-Event Simulation, Calibration, Verification & Validation |
+
+---
+
+## 🔬 Research & Publications
+
+My doctoral research explores how computational models and intelligent systems can be designed, calibrated, evaluated, and trusted under real-world operating conditions.
+
+My research interests include:
+
+- **Time-Series Foundation Models:** Zero-shot forecasting, distribution shift, robustness, and adaptation.
+- **Simulation & Digital Twins:** Microscopic traffic simulation, online calibration, lane-level validation, and computational performance.
+- **AI Reliability:** Anomaly detection, model evaluation, verification, and failure analysis.
+- **Spatiotemporal Learning:** Graph neural networks and forecasting across interconnected systems.
+
+### Selected Recognition
+
+🏆 **Overall Best Paper Runner-Up — ANNSIM 2026 (ACM SIGSIM)**
+
+*Beyond Corridor Averages: Lane-Level Validation of Microscopic Freeway Simulation with Empirically Parameterized Arrivals.*
+
+My research also includes work on time-series foundation models, robust graph neural networks, and machine learning reliability, with peer-reviewed publications in 2026.
+
+For my publication record and academic activities, visit my [research website](https://koredebishi.github.io) or [Google Scholar](https://scholar.google.com/citations?user=K7j2Uk8AAAAJ&hl=en).
+
+---
+
+## 🤝 Connect
+
+I'm interested in software engineering, machine learning engineering, AI systems, and opportunities to build reliable, scalable computational systems.
+
+[🌐 Website](https://koredebishi.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/koredebishi/) · [🎓 Google Scholar](https://scholar.google.com/citations?user=K7j2Uk8AAAAJ&hl=en) · [🔬 ORCID](https://orcid.org/0009-0003-4123-4428)
+
+---
+
+*Build · Measure · Validate · Improve.*
