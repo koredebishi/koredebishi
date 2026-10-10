@@ -8,7 +8,7 @@ I build software and machine learning systems, with interests spanning backend e
 
 My work combines research with practical engineering: designing systems, implementing models and algorithms, evaluating their behavior, and building the tools needed to make results reproducible and reliable.
 
-[Website](https://koredebishi.github.io) · [LinkedIn](https://www.linkedin.com/in/koredebishi/) · [Google Scholar](https://scholar.google.com/citations?user=K7j2Uk8AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0003-4123-4428)
+[Website](https://koredebishi.github.io) · [LinkedIn](https://www.linkedin.com/in/koredebishi/) · [Google Scholar](https://scholar.google.com/citations?user=qY9Vpm4AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0003-4123-4428)
 
 ---
 
